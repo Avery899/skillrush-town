@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-05-05",
-  "fetched_at": "2026-05-05T11:54:39.134181Z",
+  "fetched_at": "2026-05-05T12:10:36.988849Z",
   "source": {
     "url": "https://clawhub.ai/skills?sort=downloads&nonSuspicious=true",
     "api": "https://wry-manatee-359.convex.cloud/api/query",
@@ -27,7 +27,7 @@
   "comparison_basis": {
     "primary_ranking": "POST Convex api/query path=skills:listPublicPageV4 sort=downloads dir=desc nonSuspiciousOnly=true highlightedOnly=false numItems=25, first 4 pages by nextCursor.",
     "compare_key": "slug, fallback author/name",
-    "previous_snapshot": "data\\snapshots\\2026-05-04.json",
+    "previous_snapshot": "data/snapshots/2026-05-04.json",
     "strict_daily": true,
     "note": "与前一日快照 2026-05-04.json 对比。"
   },
